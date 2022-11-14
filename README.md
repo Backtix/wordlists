@@ -5,7 +5,7 @@ The list contains each name in upper- and lowercase (```Maria``` / ```maria```).
 
 Had some nice results with combination attacks ```hashcat -a 1 (...)```
 
-I usually shuffle alphabetic wordlists before I run them agains big hashfiles
+I usually shuffle alphabetic wordlists before I run them against big hashfiles
 ```plain
 sort -R GER-Firstnames_1970-2022.dict > GER-Firstnames_1970-2022RDM.dict
 ```
